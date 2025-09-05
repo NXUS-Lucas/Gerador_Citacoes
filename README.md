@@ -6,7 +6,7 @@ O usuário pode clicar em um botão e gerar uma nova citação aleatória.
 ---
 
 ## 🚀 Demonstração
-🔗 [Veja o projeto rodando aqui]([https://github.com/NXUS-Lucas/Gerador_Citacoes](https://nxus-lucas.github.io/Gerador_Citacoes))  
+🔗 [Veja o projeto rodando aqui](https://nxus-lucas.github.io/Gerador_Citacoes)  
 
 ---
 
