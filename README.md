@@ -26,7 +26,7 @@ O usuário pode clicar em um botão e gerar uma nova citação aleatória.
 
 ## 📂 Estrutura de Pastas
 /projeto-citacoes
-│── index.html
-│── style.css
-│── script.js
-│── README.md
+- │── index.html
+- │── style.css
+- │── script.js
+- │── README.md
